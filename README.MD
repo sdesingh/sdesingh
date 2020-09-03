@@ -5,7 +5,7 @@
 
 <img align="right" style="float:right" src="https://github.com/sdesingh/sdesingh/blob/master/computers.gif" />
 
-## a little about me
+### a little about me
 
 - born and raised in India and moved to NY 🗽 in 2010
 - senior (Comp Sci) at Stony Brook University. Go Seawolves 🌊🐺!
