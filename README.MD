@@ -12,7 +12,7 @@
 
 <div style="text-align: center;">
 
-<img src="computers.gif" />
+<img src="./computers.gif" />
 
 <br/>
 <br/>
