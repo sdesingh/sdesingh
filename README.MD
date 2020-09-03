@@ -1,6 +1,7 @@
 # nice to meet you 👋😊, my name is **sam**
 
-<!-- <h2 style="text-align: center;"> a little about me </h2> -->
+<br/>
+<br/>
 
 <img align="right" style="float:right" src="https://github.com/sdesingh/sdesingh/blob/master/computers.gif" />
 
