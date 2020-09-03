@@ -12,7 +12,7 @@
 
 <div style="text-align: center;">
 
-<img src="./computers.gif" />
+<img src="https://github.com/sdesingh/sdesingh/blob/master/computers.gif" />
 
 <br/>
 <br/>
