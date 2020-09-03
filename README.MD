@@ -12,7 +12,7 @@
 
 <div style="text-align: center;">
 
-<img src="https://media.giphy.com/media/iFODdhAS5k1pDLCoM4/giphy.gif" />
+<img src="./computers.gif" />
 
 <br/>
 <br/>
